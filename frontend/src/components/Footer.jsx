@@ -6,7 +6,7 @@ import { FaFacebook, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa6'
 
 const Footer = () => {
   return (
-    <footer className='h-96'>
+    <footer className='h-96 px-20'>
       <div>
         <div className='flex justify-between m-10'>
           <Link to='/' className='mb-10 bold-20'>Shoppee</Link>

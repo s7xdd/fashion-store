@@ -19,9 +19,9 @@ const Header = () => {
                     <img src={logo} alt='' height={66} width={60}/>
                 </Link>
             </div>
-            <Navbar containerStyles={'hidden md:flex gap-x-5 xl:gap-x-10'}/>
+            <Navbar containerStyles={'hidden md:flex gap-x-5 xl:gap-x-10 medium-15'}/>
 
-            <Navbar containerStyles={`${menuOpen ? 'flex item-start flex-col gap-y-12 fixed top-20 right-8 p-12 bg-white rounded-3xl shadow-md w-64 medium-16 ring-1 ring-slate-900/5 transition-all duration-300' : 'flex item-start flex-col gap-y-12 fixed top-20 p-12 bg-white rounded-3xl shadow-md w-64 medium-16 ring-1 ring-slate-900/5 transition-all duration-300 -right-[100%]'}`}/>
+            <Navbar containerStyles={`${menuOpen ? 'flex items-start flex-col gap-y-12 fixed top-20 right-8 p-12 bg-white rounded-3xl shadow-md w-64 medium-16 ring-1 ring-slate-900/5 transition-all duration-300' : 'flex item-start flex-col gap-y-12 fixed top-20 p-12 bg-white rounded-3xl shadow-md w-64 medium-16 ring-1 ring-slate-900/5 transition-all duration-300 -right-[100%]'}`}/>
             
             <div className='flexBetween sm:gap-x-6 bold-16'>
                 <button onClick={() => setMenuOpened(!menuOpen)}>

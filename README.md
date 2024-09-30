@@ -1,1 +1,4 @@
-A fashion webstore created using MERN stack. Work in progress. Adding functionalities such as admin panel. 
+<h1>Introduction</h1>
+A front end fashion webstore project created using React.
+
+

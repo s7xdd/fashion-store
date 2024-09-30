@@ -54,8 +54,7 @@ Run these commands in order
   npm install
   npm run dev
   ```
-
-## Usage
+  
 <br/>
 <h2>Homepage</h2>
 <br/>

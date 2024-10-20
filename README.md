@@ -16,7 +16,7 @@ A front end fashion webstore project created using React.
     <a href="https://github.com/s7xdd/fashion-store"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/s7xdd/fashion-store">View Demo</a>
+    <a href="https://fashionstore-s7xdd.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/s7xdd/fashion-store/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
